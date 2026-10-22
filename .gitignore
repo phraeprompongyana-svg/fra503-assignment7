@@ -1,0 +1,3 @@
+*.mcap
+*.db3
+__pycache__/
