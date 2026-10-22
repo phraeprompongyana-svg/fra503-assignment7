@@ -21,4 +21,4 @@
 - Nav2: ส่งเป้าหมายเส้นตรง ≈ 1.2 m บนแผนที่ Map4
 
 ## ไฟล์ขนาดใหญ่
-ไฟล์ bag ที่ใหญ่กว่า 50 MB ไม่ได้อยู่ใน repo นี้ (ใส่ลิงก์ Google Drive ที่นี่)
+ไฟล์ bag ที่ใหญ่กว่า 50 MB ไม่ได้อยู่ใน repo นี้ (https://drive.google.com/drive/folders/1usYN1TF2PbsDmspErDNzOA6uo_mvwgg2?usp=sharing)
